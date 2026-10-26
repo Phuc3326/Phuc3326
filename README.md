@@ -43,7 +43,7 @@ I am a passionate software developer specializing in the Java ecosystem (Spring 
 #### 1. SoundWave — Cloud-Native Music Streaming Platform
 * Tech Stack: Java Servlet, JSP, PostgreSQL 16, Docker, Cloudinary CDN, Nginx SSL
 * Highlights: Continuous HTML5 audio player, custom queue data structures (Doubly Linked List), multi-field search engine, RBAC moderation system (Public/Private uploads).
-* Live Demo: https://soundway.hufudev.me
+* Live Demo: https://soundwave.hufudev.me
 * Repository: [MusicStreamingPlaylistManager](https://github.com/Phuc3326/MusicStreamingPlaylistManager)
 #### 2. RTMS — Racehorse Training Management System
 * Tech Stack: Java 21, Spring Boot, Spring Security (JWT), React, TypeScript, PostgreSQL, Docker
