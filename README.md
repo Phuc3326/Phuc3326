@@ -20,7 +20,7 @@ I enjoy understanding business requirements, solving technical problems, and con
 ## Technical Skills
 
 - **Languages:** Java (OOP, Collections, Stream API), SQL, JavaScript, TypeScript
-- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security, JWT, Servlet/JSP, JDBC, Dependency Injection
+- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security, JWT, Servlet/JSP, JDBC
 - **Databases:** PostgreSQL, SQL queries, Flyway migrations
 - **Testing:** JUnit 5, Mockito, MockMvc
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Thymeleaf
